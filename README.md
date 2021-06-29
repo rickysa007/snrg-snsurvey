@@ -1,7 +1,9 @@
 # snrg-snsurvey
 Supernova Reading Group:  SN survey
 
-The code is a little bit messy right now but it gets the job done for now, will tidy it up after finishing its function, sorry about that. And preferably the code should be run in Jupyter Notebook or Google Colab to output the graphs properly.
+The code is a little bit messy right now, sorry about this, I will tidy it up after completing the functions of the codes.
+
+Preferably the codes should be run in Jupyter Notebook or Google Colab to output the graphs properly.
 
 You can download the data using the Google drive link in the Google doc, or just feel free to download any data you want in the Open Supernova Catalog in .json
 
