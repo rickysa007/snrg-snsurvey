@@ -1,7 +1,7 @@
 # snrg-snsurvey
 Supernova Reading Group:  SN survey
 
-The code is a little bit messy right now, sorry for the spegahetti code.
+The code is a little bit messy right now, sorry for the spaghetti code.
 
 Preferably the codes should be run in Jupyter Notebook or Google Colab to output the graphs properly.
 
